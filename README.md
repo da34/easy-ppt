@@ -1,2 +1,2 @@
 # easy-ppt
-一次github联系
+一次github练习
